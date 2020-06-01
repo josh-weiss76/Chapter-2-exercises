@@ -1,0 +1,13 @@
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.exe
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.deps.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.runtimeconfig.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.runtimeconfig.dev.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.dll
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\bin\Debug\netcoreapp3.1\AreaOfARectangle.pdb
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.csprojAssemblyReference.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.AssemblyInfoInputs.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.AssemblyInfo.cs
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.csproj.CoreCompileInputs.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.dll
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.pdb
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\AreaOfARectangle\obj\Debug\netcoreapp3.1\AreaOfARectangle.genruntimeconfig.cache

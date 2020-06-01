@@ -1,0 +1,13 @@
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csprojAssemblyReference.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfoInputs.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfo.cs
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.exe
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.deps.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.dev.json
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.dll
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.pdb
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.dll
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.pdb
+C:\Users\sgtko\Desktop\LaunchCode\C#\Chapter2Exercises\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.genruntimeconfig.cache

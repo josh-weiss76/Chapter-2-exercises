@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "72sNp7RNogiqdY0WINDSiuvCmqIxmEbORfgrtqWp6x1OL8eUk3aAoZGygaztMYIQ+fu1aXQR0RnhA7Zx8lZI0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgtko\\Desktop\\LaunchCode\\C#\\Chapter2Exercises\\StringSearch\\StringSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgtko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
